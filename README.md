@@ -73,13 +73,4 @@ output
 	- executable
 
 
-Subdirectories:
----------------
-analysis: this holds python scripts used for analysis of data produced by simulation
-
-isotherms: this holds isotherms of energy outputs 
-
-graphics: this holds graphs for isotherms, CPUtime, snapshots from simulation movie, and movie file in .mpg
-
-
 
