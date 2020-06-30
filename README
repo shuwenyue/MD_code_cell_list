@@ -1,16 +1,13 @@
-----------------------------------------------------------------------
-3D Lennard Jones Particles Molecular Dynamics Simulation.
-----------------------------------------------------------------------
 
-APC 523 Term Project
+## 3D Lennard Jones Particles Molecular Dynamics Simulation.
 
-Sassan Hajirezaie
-Andrew Rock
-Shuwen Yue
+**APC 523 Term Project**
 
-----------------------------------------------------------------------
-RUNNING
-----------------------------------------------------------------------
+*Shuwen Yue*
+*Sassan Hajirezaie*
+*Andrew Rock*
+
+## RUNNING
 
 To run the program, follow the below instruction:
 (Please follow recommended values for inputs)
