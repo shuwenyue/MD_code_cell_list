@@ -3,9 +3,7 @@
 
 **APC 523 Term Project**
 
-*Shuwen Yue*
-*Sassan Hajirezaie*
-*Andrew Rock*
+*Shuwen Yue, Sassan Hajirezaie, Andrew Rock*
 
 ## RUNNING
 
